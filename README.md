@@ -149,7 +149,6 @@ Usos: Excelente para visualizar composición de mercados.
 ### Parte de un todo
 Este tipo de combinaciones numéricas son útiles para mostrar cómo una entidad en sí misma puede dividirse en los elementos que lo conforman. Por ejemplo, es común utilizar la parte de un todo para representar la asignación de unos presupuestos o resultados electorales.
 
-Usos: Representa conjuntos y sus intersecciones. Por ejemplo: usuarios que usan App A, App B, o ambas.
 
 #### Gráfico de tarta
 Uno de los gráficos más comunes para mostrar datos parciales o completos. Conviene tener presente que no es fácil comparar de forma precisa el tamaño de los distintos segmentos.
@@ -160,6 +159,8 @@ Usos: Muy usado en reportes para mostrar distribución de presupuestos, particip
 
 #### Diagrama de Venn
 Limitado a representaciones esquemáticas que permiten mostrar interrelaciones o coincidencias.
+
+Usos: Representa conjuntos y sus intersecciones. Por ejemplo: usuarios que usan App A, App B, o ambas.
 
 ![](https://github.com/Bootcamp-IA-P4/Pildora-Tipos-de-graficas-en-el-Analisis-de-Datos/blob/main/img/image%20(3).png)
 
